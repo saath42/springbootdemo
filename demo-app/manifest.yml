@@ -1,0 +1,4 @@
+applications:
+  - name: hello-raz
+    buildpack: java_buildpack
+    path: target/demo-app-0.1.0.jar
